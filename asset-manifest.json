@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/francoisjaulin/my-app-perso/static/css/main.b100e6da.chunk.css",
+    "main.js": "/francoisjaulin/my-app-perso/static/js/main.dc7f6447.chunk.js",
+    "main.js.map": "/francoisjaulin/my-app-perso/static/js/main.dc7f6447.chunk.js.map",
+    "runtime-main.js": "/francoisjaulin/my-app-perso/static/js/runtime-main.89b14e1f.js",
+    "runtime-main.js.map": "/francoisjaulin/my-app-perso/static/js/runtime-main.89b14e1f.js.map",
+    "static/js/2.a90b0589.chunk.js": "/francoisjaulin/my-app-perso/static/js/2.a90b0589.chunk.js",
+    "static/js/2.a90b0589.chunk.js.map": "/francoisjaulin/my-app-perso/static/js/2.a90b0589.chunk.js.map",
+    "index.html": "/francoisjaulin/my-app-perso/index.html",
+    "precache-manifest.3fc840864ba00e277388629746412fb4.js": "/francoisjaulin/my-app-perso/precache-manifest.3fc840864ba00e277388629746412fb4.js",
+    "service-worker.js": "/francoisjaulin/my-app-perso/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/francoisjaulin/my-app-perso/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/francoisjaulin/my-app-perso/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89b14e1f.js",
+    "static/js/2.a90b0589.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.dc7f6447.chunk.js"
+  ]
+}
