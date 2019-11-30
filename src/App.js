@@ -1,21 +1,25 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { Component } from 'react';
 import './App.css';
-import Header from './components/header.js'
-import Main from './components/main.js'
-import Footer from './components/footer.js'
-import Socialnetwork from './components/socialnetwork';
+import Sidebar from './components/sidebar'
+import Introduction from './components/introduction'
+import About from './components/about'
+import Timeline from './components/timeline'
 
-function App() {
-  return (
-    <div> 
-    <Header/> 
-    <Main/>
-    <Socialnetwork/>
-    <Footer/>
-    </div>
-
-  );
+class App extends Component {
+  render() {
+    return (
+      <div id="colorlib-page">
+        <div id="container-wrap">
+         	<Sidebar></Sidebar>
+				<div id="colorlib-main">
+					<Introduction></Introduction>
+					<About></About>
+					<Timeline></Timeline>
+          	</div>
+      	</div>
+      </div>
+    );
+  }
 }
 
 export default App;
