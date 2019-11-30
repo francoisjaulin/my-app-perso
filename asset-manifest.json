@@ -1,22 +1,13 @@
 {
-  "files": {
-    "main.css": "/my-app-perso/static/css/main.b100e6da.chunk.css",
-    "main.js": "/my-app-perso/static/js/main.4f66e273.chunk.js",
-    "main.js.map": "/my-app-perso/static/js/main.4f66e273.chunk.js.map",
-    "runtime-main.js": "/my-app-perso/static/js/runtime-main.1ebacbf1.js",
-    "runtime-main.js.map": "/my-app-perso/static/js/runtime-main.1ebacbf1.js.map",
-    "static/js/2.a90b0589.chunk.js": "/my-app-perso/static/js/2.a90b0589.chunk.js",
-    "static/js/2.a90b0589.chunk.js.map": "/my-app-perso/static/js/2.a90b0589.chunk.js.map",
-    "index.html": "/my-app-perso/index.html",
-    "precache-manifest.b1493221125654cfffcdb48dc7f2b345.js": "/my-app-perso/precache-manifest.b1493221125654cfffcdb48dc7f2b345.js",
-    "service-worker.js": "/my-app-perso/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/my-app-perso/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/my-app-perso/static/media/logo.25bf045c.svg"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.1ebacbf1.js",
-    "static/js/2.a90b0589.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
-    "static/js/main.4f66e273.chunk.js"
-  ]
+  "main.css": "/my-app-perso/static/css/main.13932f8c.chunk.css",
+  "main.js": "/my-app-perso/static/js/main.2516f7a2.chunk.js",
+  "main.js.map": "/my-app-perso/static/js/main.2516f7a2.chunk.js.map",
+  "runtime~main.js": "/my-app-perso/static/js/runtime~main.600fe7a6.js",
+  "runtime~main.js.map": "/my-app-perso/static/js/runtime~main.600fe7a6.js.map",
+  "static/js/2.5ec21d73.chunk.js": "/my-app-perso/static/js/2.5ec21d73.chunk.js",
+  "static/js/2.5ec21d73.chunk.js.map": "/my-app-perso/static/js/2.5ec21d73.chunk.js.map",
+  "index.html": "/my-app-perso/index.html",
+  "precache-manifest.3b07c206a904c6dd0ecc40f9f362afb1.js": "/my-app-perso/precache-manifest.3b07c206a904c6dd0ecc40f9f362afb1.js",
+  "service-worker.js": "/my-app-perso/service-worker.js",
+  "static/css/main.13932f8c.chunk.css.map": "/my-app-perso/static/css/main.13932f8c.chunk.css.map"
 }
